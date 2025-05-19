@@ -2,6 +2,10 @@
 
 Looka is an online tool that helps people create logos and brand designs easily. You don’t need to be a designer or have special skills to use it. Just enter your business name, pick some styles you like, and Looka’s AI technology creates many logo options for you to choose from. It also helps you make business cards, social media images, and other branding materials.
 
+<a href="https://afftrend.com/looka">
+  <img src="https://drive.google.com/uc?export=view&id=1z8oZ5j2cg1fGnsI-mMKjeljVSygUPeD6" width="800px" alt="">
+</a>
+
 More than 70% of small business owners say having a good logo helps customers trust their business more. But hiring a professional designer can be expensive and take a long time. Looka solves this by letting you make professional logos quickly and at a low cost. This makes it a great choice for new businesses, freelancers, and anyone who wants to build a strong brand without spending a lot of money or time.
 
 ## Looka Overview
